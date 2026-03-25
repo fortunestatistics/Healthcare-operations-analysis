@@ -14,9 +14,10 @@ This project analyzes hospital patient flow data to identify operational ineffic
 - GitHub Copilot
 
 ## Key Insights
-- Identified departments with longest wait times
+- Identified departments with the longest wait times
 - Discovered peak admission hours
 - Provided workflow optimization recommendations
 
 ## Dashboard
-[Insert Tableau Link]
+https://public.tableau.com/authoring/HospitalOperationsAnalyticsDashboard/Dashboard1#1
+
