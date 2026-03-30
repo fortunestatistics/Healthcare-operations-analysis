@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.h5
+*.dat
+*.mdb
+*.pkl
+*.pickle
+*.sav
